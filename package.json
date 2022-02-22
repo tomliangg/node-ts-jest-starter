@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "quick start with Typescript and jest in node env",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "wrap () { ts-node \"$*\" | cat; }; wrap"
   },
   "keywords": [],
   "author": "",
