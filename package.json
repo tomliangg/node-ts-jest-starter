@@ -1,0 +1,17 @@
+{
+  "name": "node-ts-jest-starter",
+  "version": "1.0.0",
+  "description": "quick start with Typescript and jest in node env",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "ts-jest": "^27.1.3",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
